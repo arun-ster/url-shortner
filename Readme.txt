@@ -4,7 +4,7 @@ Steps to be followed before running the application:-
 2. Create a database and edit config/database.php with respect to created database and server details.
 3. Edit config/app.php and set url to your respective server url.
 4. Run the application with your root address.
-5. Please follow Laravel 5 documentation settings here http://laravel.com/docs/5.0 
+5. Please follow Laravel 5 documentation for settings here http://laravel.com/docs/5.0 
 
 Tools Used:-
 
